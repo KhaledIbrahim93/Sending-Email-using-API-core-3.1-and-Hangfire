@@ -1,0 +1,9 @@
+D:\Demos\HangFireDemo\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+D:\Demos\HangFireDemo\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+D:\Demos\HangFireDemo\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+D:\Demos\HangFireDemo\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+D:\Demos\HangFireDemo\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+D:\Demos\HangFireDemo\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+D:\Demos\HangFireDemo\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+D:\Demos\HangFireDemo\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+D:\Demos\HangFireDemo\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
